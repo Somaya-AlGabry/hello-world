@@ -1,2 +1,3 @@
 # hello-world
-Let's start 
+I am Somaya
+I love coffee, tea, dark chocolate and MATHS
